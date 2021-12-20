@@ -15,5 +15,4 @@ The components of the deliverables are as follows;
 
 ![Feature&Image&Facts](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Facts.PNG)
 
- 1. Adding the hemisphere images as thumbnails, like the image below.
 ![D3thumbnails](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Hemisphere.png)
