@@ -15,4 +15,9 @@ The components of the deliverables are as follows;
 
 ![Feature&Image&Facts](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Facts.PNG)
 
-![D3thumbnails](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Hemisphere.png)
+![D3thumbnails](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Website%20thumbnails.png)
+
+![listofdictionary](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/list%20of%20dictionary%20items.png)
+
+![Enchanced](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/EnchancedMarsHemispheres.PNG)
+
