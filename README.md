@@ -10,21 +10,14 @@ Here is the list of deliverables for the analysis of 4 deliverables:
 - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 - Deliverable 3: Add Bootstrap 3 Components
 
-![Feature&Image&Facts](https://github.com/735713038455163/Mission-to-Mars/blob/main/Feature%26Image%26FactsPNG.PNG)
-
-The files we will be using are :
-
-- Mission_to_Mars.ipynb as Mission_to_Mars_Challenge.ipynb with Mission_to_Mars_starter_code.ipynb to Scrape High-Resolution Mars Hemisphere Images and Titles.
-- Modifying the Scraping.py, app.py, and index.html which is locating in the template folder to Update the Web App with Mars Hemisphere Images and Titles.
-- Add Bootstrp 3 Compenents 
-
 ## Results
 
 The components of the deliverables are as follows;
 
+![Feature&Image&Facts](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Facts.PNG)
+
  1. Adding the hemisphere images as thumbnails, like the image below.
-![MarsHemispheres](https://github.com/735713038455163/Mission-to-Mars/blob/main/MarsHemispheres.PNG)
-![D3thumbnails](https://github.com/735713038455163/Mission-to-Mars/blob/main/D3thumbnails.PNG)
+![D3thumbnails](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Hemisphere.png)
 
  2. Styling the "Scrape New Data" button image and completing the 
 
